@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30184933028",
+    "firebase_url": "https://math-app-521e1.firebaseio.com",
+    "project_id": "math-app-521e1",
+    "storage_bucket": "math-app-521e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30184933028:android:f84c13861de3a536c98831",
+        "android_client_info": {
+          "package_name": "com.dev.klue.math_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30184933028-4gfstese2m4vkflih2tb6uukmc5g0g0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.klue.math_app",
+            "certificate_hash": "a8f0b2570bbd039551388f80f758a4d1cf197be2"
+          }
+        },
+        {
+          "client_id": "30184933028-eqges4ejopv3qeoj135b77c0v4llbkdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHiiaNWofwhyQHm7F4-wMO7VLJ29ZDScQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30184933028-eqges4ejopv3qeoj135b77c0v4llbkdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
